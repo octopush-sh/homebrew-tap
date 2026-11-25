@@ -13,8 +13,8 @@
 # render replaces; CI runs the same checks on every pull request.
 
 cask "octopush" do
-  version "0.4.146"
-  sha256 "9c33777363cc7e24327daf8c6486ba7435ed22595afa7015d973ecc0c4814cfd"
+  version "0.4.147"
+  sha256 "5e916674d22f88c4d40c408800bf0289b36b17355566ef292f1e9c74d334aaf7"
 
   # Stable permalink asset published by scripts/release.mjs. `Octopush.dmg` is a
   # byte-copy of the versioned universal DMG, so this URL is arch-agnostic.
